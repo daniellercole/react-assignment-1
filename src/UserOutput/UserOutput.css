@@ -1,0 +1,16 @@
+.UserOutput {
+  padding: 15px;
+  margin: 15px 15px 0 15px;
+  background: whitesmoke;
+  color: black;
+}
+
+.UserOutput strong {
+  color: goldenrod;
+}
+
+.userOutput p {
+  font-size: inherit;
+  color: inherit;
+  font-style: inherit;
+}
